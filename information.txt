@@ -1,0 +1,19 @@
+//***************collections list ********************//
+
+USER
+Alumini List
+Resources List
+Events List
+Magazines List
+CodeWars Photos
+Gallery Photos
+
+Alumini Highlights // can be added later
+
+/////////////////////////////
+original website link : https://github.com/Zigbee-Student-Developers-Club/zigbee-2
+
+////////////////////// notice 
+1. photos stored in cloudinary with webp (priority)  
+2. make mongoDB Atlas schema accroding to the api doc ..
+
