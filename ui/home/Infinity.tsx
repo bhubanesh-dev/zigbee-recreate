@@ -24,13 +24,16 @@ export default function Infinity() {
             height='200'
           />
         </Flex>
-        <Stack flex={1} 
+        <Stack 
+          flex={1} 
+          gap="16"
         // spacing={{ base: 5, md: 10 }}
         >
           <Heading
             fontWeight='black'
             fontSize={{ base: '3xl', sm: '4xl', lg: '6xl' }}
             as='h2'
+            lineHeight="1"
           >
             To Infinity and Beyond!
           </Heading>

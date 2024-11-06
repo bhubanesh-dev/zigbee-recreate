@@ -34,13 +34,16 @@ export default function OverTheCoffee() {
             // spacing={{ base: 8, md: 10 }}
             direction={{ base: 'column', md: 'row' }}
           >
-            <Stack flex={1} 
+            <Stack 
+              flex={1} 
+              gap="16"
             // spacing={{ base: 5, md: 10 }}
             >
               <Heading
                 fontWeight='black'
                 fontSize={{ base: '3xl', sm: '4xl', lg: '6xl' }}
                 as='h2'
+                lineHeight="1"
               >
                 A lot can happen over coffee, right?
               </Heading>

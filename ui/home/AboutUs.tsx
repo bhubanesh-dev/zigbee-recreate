@@ -39,7 +39,9 @@ export default function AboutUs() {
                 height='200'
               />
             </Flex>
-            <Stack flex={1}
+            <Stack  
+              flex={1}
+              gap={16}
             //  spacing={{ base: 5, md: 10 }}
              >
               <Heading

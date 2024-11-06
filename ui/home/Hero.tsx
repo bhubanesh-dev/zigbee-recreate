@@ -18,6 +18,7 @@ export default function Hero() {
         >
           <Stack
             flex={1}
+            gap={16}
             // spacing={{ base: 5, md: 10 }}
           >
             <Heading
