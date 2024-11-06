@@ -1,7 +1,25 @@
 //***************collections list ********************//
 
 USER
+***************
+userRegdNo: number;
+  password: string;
+  batch:number
+  ************
 Alumini List
+*********
+batch: {
+    [year: number]: AlumniInfo[];
+  };
+**********
+AlumniInfo {
+  name: string;
+  imgURL: string;
+  linkedinURL: string;
+  message: string;
+}
+*********************
+
 Resources List
 Events List
 Magazines List
