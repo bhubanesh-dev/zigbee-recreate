@@ -40,7 +40,8 @@ export default function NavItemsGroup() {
             _hover={{ background: "blue.100" }}
             colorScheme="blue"
             color="black"
-            size={"lg"}
+            fontWeight={600}
+            size={"xl"}
           >
             {item.name}
           </Button>

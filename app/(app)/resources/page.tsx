@@ -1,11 +1,10 @@
 
-const Magazines = () => {
+const Resources = () => {
   return (
     <div>
-      Magazines render here
-      
+      Resources render here
     </div>
   )
 }
 
-export default Magazines
+export default Resources
