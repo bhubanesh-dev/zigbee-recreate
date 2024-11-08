@@ -1,5 +1,5 @@
 "use client";
-import {Hero,AboutUs,OverTheCoffee,Infinity} from "@/ui/index"
+import { Hero, AboutUs, OverTheCoffee, Infinity, Footer } from "@/ui/index"
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
       <OverTheCoffee />
       <Infinity />
       {/* <FAQ /> */}
-      {/* <Footer /> */}
+      <Footer />
     </>
   );
 }
